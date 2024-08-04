@@ -25,8 +25,9 @@ The model is trained using various machine learning algorithms to find the best 
 <h3>Algorithms Used</h3>
 <ul>
         <li>Logistic Regression</li>
-        <li>Decision Trees</li>
+        <li>Linear Regression</li>
         <li>Random Forest</li>
-        <li>Gradient Boosting</li>
+        <li>K-Nearest Neighbours</li>
         <li>Support Vector Machines</li>
+        <li>Neural Networks</li>
     </ul>
